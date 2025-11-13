@@ -20,6 +20,6 @@ DB_NAME=your_db_name
 ## Executing __main__.py
 
 ```bash
-python .
+python -m app
 ```
 
